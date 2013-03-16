@@ -5,9 +5,10 @@ Raspberry pi web server things.
 
 whats here
 ==========
-- Nothing at the moment.
+- index page
+- css file and images
+- other 'include' files (footer, includer..)
 
 info
 ====
-- visit harris-pi.uni.me for the development server. This will host the files.
-- Being built, html and php pages, including database. When the website is made (harris-pi.uni.me)I will start to make the html5 game.
+Download the files and upload to your server. Change the picture to your own, and change text in the files to the text you want.
